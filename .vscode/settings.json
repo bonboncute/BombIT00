@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "liveshare.diagnosticLogging": true,
+    "liveshare.languages.allowGuestCommandControl": true,
+    "liveshare.allowGuestDebugControl": true,
+    "liveshare.allowGuestTaskControl": true,
+    "liveshare.launcherClient": "visualStudioCode",
+    "liveshare.codeLens": true,
+    "liveshare.publishWorkspaceInfo": true,
+    "liveshare.showReadOnlyUsersInEditor": "whileFollowing",
+    "liveshare.openSharedServers": false,
+    "liveshare.guestApprovalRequired": false
+}
